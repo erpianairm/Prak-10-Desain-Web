@@ -1,0 +1,22 @@
+body {
+
+    background-color: palegoldenrod;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: beige;
+}
+
+#portfolio {
+    background-color: beige;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+#carouselExampleCaptions {
+    padding-bottom: 100px;
+}
+  
